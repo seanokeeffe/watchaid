@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>86364840-A0AF-4DD7-8A79-E33838981CA9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BE418917BB4119047BC9FC26E0E030519D7F6996</key>
+		<string>https://github.com/seanokeeffe/watchaid.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WatchAid/WatchAid.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BE418917BB4119047BC9FC26E0E030519D7F6996</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/seanokeeffe/watchaid.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BE418917BB4119047BC9FC26E0E030519D7F6996</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BE418917BB4119047BC9FC26E0E030519D7F6996</string>
+			<key>IDESourceControlWCCName</key>
+			<string>watchaid</string>
+		</dict>
+	</array>
+</dict>
+</plist>
