@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  WatchAid
 //
-//  Created by Sean on 4/10/15.
+//  Created by Jenner Felton and Sean O'Keeffe on 4/10/15.
 //  Copyright (c) 2015 Sean O'Keeffe. All rights reserved.
 //
 

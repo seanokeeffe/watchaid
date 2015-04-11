@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>WatchAid WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>WatchAid.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -18,6 +23,11 @@
 			<true/>
 		</dict>
 		<key>74ACF4E31AD8D030007418A8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E972F8041AD8D1F8000C57E8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
