@@ -25,6 +25,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         Parse.setApplicationId("ngD2eBsUtmQqbpZJqdOTbqHrcRYTTit4fDHoPAuL",
             clientKey: "KB30APHK8WsPahkpYiNT7WX4Jhyi0KSfRcwy24hD")
         
+        CustomUser.registerSubclass()
+        
         // Register for Push Notitications
         if application.applicationState != UIApplicationState.Background {
             // Track an app open here if we launch with a push, unless

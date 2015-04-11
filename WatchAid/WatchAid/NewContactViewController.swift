@@ -8,6 +8,8 @@
 
 import UIKit
 
+
+
 class NewContactViewController: UIViewController {
 
     @IBOutlet weak var nameField: UITextField!
@@ -31,6 +33,7 @@ class NewContactViewController: UIViewController {
     
     
     @IBAction func donePushed(sender: AnyObject) {
+        //createNewUser()
         
         
         self.dismissViewControllerAnimated(true, completion: nil)
